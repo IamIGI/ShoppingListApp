@@ -12,6 +12,10 @@ https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/14466
 Firebase documentation:
 https://firebase.google.com/docs/cli#windows-npm
 
+## Fixes:
+Always serve index.html
+https://academind.com/tutorials/angular-q-a#how-to-fix-broken-routes-after-deployment
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
